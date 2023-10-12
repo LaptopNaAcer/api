@@ -82,10 +82,8 @@ license under which your API is distributed.
   
   
 ## Contributors  
-  
-  
-List  
-contributors or give credit to any external libraries or resources used.  
+github: Oconer-giy
+email: donellpie@gmail.com
   
   
   
