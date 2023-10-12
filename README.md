@@ -118,7 +118,7 @@ ITPC -115 : Sir Manny Hortizuela
   
 ## Contributors  
 
-github: Oconer-giy
+github: Oconer-git
 email: donellpie@gmail.com
   
   
